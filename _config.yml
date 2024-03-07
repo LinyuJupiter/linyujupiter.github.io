@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "翎雨的个人主页"
+title                    : "翎雨Jupiter"
 description              : "Undergraduate students majoring in Intelligent Science and Technology at Sun Yat sen University Shenzhen Campus, with research interests in artificial intelligence related fields such as computer vision and natural language processing"
 repository               : "LinyuJupiter/linyujupiter.github.io"
 google_scholar_stats_use_cdn : false
