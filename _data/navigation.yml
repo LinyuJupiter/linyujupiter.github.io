@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "简体中文"
+    url: "/zh-linyujupiter-homepage/"
+
   - title: "About Me"
     url: "/#about-me"
 
