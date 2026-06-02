@@ -3,6 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
+author: en
 redirect_from: 
   - /about/
   - /about.html
@@ -27,6 +29,7 @@ Later, I worked with Associate Professor [Shen Ying](https://sysu-hcp.net/facult
 
 Currently working at Tencent Financial Technology as a Test Development Engineer, focusing on improving development efficiency using artificial intelligence technologies such as large language models.
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Paper "Dual-branch vision transformer for low-resolution action recognition" accepted by SCI journal "Multimedia Tools and Applications".
 
@@ -48,6 +51,7 @@ Currently working at Tencent Financial Technology as a Test Development Engineer
 
 - *2021.07*: &nbsp;🎉🎉 Ranked 44th in the science department of Heyuan Middle School in the college entrance examination, and was admitted to Sun Yat-sen University for computer science (Shenzhen) with a provincial ranking of around 4900.
 
+<span class='anchor' id='projects'></span>
 # 💬 Projects
 
 ## screenshot2code - A Tool for Converting Web Screenshots to HTML Code Based on GLM-4
@@ -108,20 +112,24 @@ Currently working at Tencent Financial Technology as a Test Development Engineer
 - Utilized IO streams and a custom file format to save and load game progress, and added a detection mechanism to prevent unreasonable endgame situations;
 - Designed the UI interface using QT Designer, added custom controls, and created an installer package with Visual Studio. The project achieved first place in the class (out of 47 students).
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2024.07* Second Prize in Hebei Province for the "Challenge Cup" China College Student Entrepreneurship Competition
 - *2024.02* Mathematical Contest in Modeling(MCM/ICM)
 - *2023.03* Third Prize in the First "Intelligent Data Cup" Data Analysis Competition of the School of Intelligent Engineering in 2023
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2025.09 - Present*, Master's Degree: The Chinese University of Hong Kong, Faculty of Engineering, Department of Information Engineering, Hong Kong
 - *2021.09 - 2025.06*, Bachelor's Degree: Sun Yat-sen University, School of Intelligent Engineering, Intelligent Science and Technology, Shenzhen
 - *2018.09 - 2021.06*, High School: Heyuan Middle School, Heyuan
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 - *2025.04* [Chen, R., Gao, C., Tan, Z., Liu, F., Yu, J., & Li, X. (2025). Dual-branch vision transformer for low-resolution action recognition. Multimedia Tools and Applications, 1-20.](https://link.springer.com/article/10.1007/s11042-025-20827-w)
 - *2024.06* Computer Software Copyright - CellMaster Teaching System
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 ## *2024.07 - Present*, [Tencent Technology (Shenzhen) Co., Ltd.](https://www.tencent.com/zh-cn/index.html), Test Development Engineer, Shenzhen
 - Responsible for developing automated test case generation tools that use large model-based Agent workflows to generate corresponding test scenario code based on call logs and other information

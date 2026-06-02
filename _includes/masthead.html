@@ -1,12 +1,20 @@
+{% if page.lang == 'zh' %}
+  {% assign nav_links = site.data.navigation_zh.main %}
+  {% assign blog_label = "博客" %}
+{% else %}
+  {% assign nav_links = site.data.navigation_en.main %}
+  {% assign blog_label = "Blog" %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="http://134.175.123.166:3003">Blog</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="http://134.175.123.166:3003">{{ blog_label }}</a></li>
+          {% for link in nav_links %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

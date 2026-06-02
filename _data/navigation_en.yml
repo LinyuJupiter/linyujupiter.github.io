@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "简体中文"
-    url: "/zh-linyujupiter-homepage/"
+    url: "/zh/"
 
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"

@@ -16,7 +16,11 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
+      {% if author.description %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ author.description }}</div></li>
+      {% elsif page.lang == 'zh' and site.description_zh %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description_zh }}</div></li>
+      {% elsif site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
