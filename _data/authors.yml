@@ -1,6 +1,6 @@
 en:
   name: "Linyu Jupiter"
-  avatar: "images/android-chrome-512x512.png"
+  avatar: "/images/android-chrome-512x512.png"
   bio: "Sun Yat-sen University (Shenzhen Campus)"
   location: "Shenzhen, China"
   employer:
@@ -39,7 +39,7 @@ en:
 
 zh:
   name: "翎雨Jupiter"
-  avatar: "images/android-chrome-512x512.png"
+  avatar: "/images/android-chrome-512x512.png"
   bio: "中山大学"
   location: "深圳, 中国"
   employer:
