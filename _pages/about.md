@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Liu Fangxin, a native of Heyuan, Guangdong, graduated from the School of Intelligent Engineering at Sun Yat-sen University in 2025 with a major in Intelligent Science and Technology. Currently pursuing a master's degree in Information Engineering at The Chinese University of Hong Kong.
+I graduated from the School of Intelligent Engineering at Sun Yat-sen University in 2025 with a major in Intelligent Science and Technology. Currently pursuing a master's degree in Information Engineering at The Chinese University of Hong Kong.
 
-I enjoy programming and have developed two software applications based on Python (privacy restrictions prevent their display). These applications have hundreds of users, and I have handled all the frontend, backend, and operations work on my own. [Here](/) is my self-built website homepage, and [here](http://134.175.123.166:3003) is my blog website, welcome to visit.
+I enjoy programming and have developed two software projects based on Python before the advent of the Agent era (with privacy restrictions and inconvenient display). I have over a hundred users and am responsible for all front-end and back-end development and operation work. Nowadays, with the rise of AI programming, writing simple software is no longer a difficult task, but the sense of achievement of personally writing software is still unforgettable in my heart. [This site](/en/) is my self-built website homepage, and [here](http://134.175.123.166:3003) is my blog website, welcome to visit.
 
 I previously worked with Professor [Gao Chenqiang](https://gaocq.github.io/index.html)'s research group on computer vision tasks, primarily focusing on behavior detection in classroom settings. I have published one SCI paper in the fourth quartile.
 
